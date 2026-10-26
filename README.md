@@ -4,9 +4,9 @@
 **Interfaz / Modalidad:** Gráfica — 1 jugador  
 
 ## Integrantes y aportes
-- Celeste Rocío Miltos
-- Milagros López
-- Valentina Laura Morando
+- Celeste Rocío Miltos (GitHub no informado)
+- Milagros López (GitHub no informado)
+- Valentina Laura Morando (GitHub no informado)
 
 ## Reglas y alcance
 El juego permitirá identificar al jugador y seleccionar una dificultad: fácil, normal o difícil.
