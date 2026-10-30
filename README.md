@@ -4,7 +4,7 @@
 **Interfaz / Modalidad:** Gráfica — 1 jugador  
 
 ## Integrantes y aportes
-- Celeste Rocío Miltos (GitHub no informado)
+- Celeste Rocío Miltos (@celes976)
 - Milagros López (GitHub no informado)
 - Valentina Laura Morando (GitHub no informado)
 
