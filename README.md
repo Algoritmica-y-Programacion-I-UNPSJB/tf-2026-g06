@@ -5,7 +5,7 @@
 
 ## Integrantes y aportes
 - Celeste Rocío Miltos (@celes976)
-- Milagros López (GitHub no informado)
+- Milagros López (@Miliii08)
 - Valentina Laura Morando (GitHub no informado)
 
 ## Reglas y alcance
